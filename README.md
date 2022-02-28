@@ -1,9 +1,20 @@
-### Well hello there!
+# Phone Card app.
 
-This repository is meant to provide an example for *forking* a repository on GitHub.
+## You can get the project either using git clone or by downloading the zip folder.
 
-Creating a *fork* is producing a personal copy of someone else's project. Forks act as a sort of bridge between the original repository and your personal copy. You can submit *Pull Requests* to help make other people's projects better by offering your changes up to the original project. Forking is at the core of social coding at GitHub.
+To download the project:
+1. Go to the following link https://github.com/practicalit/phone-card.
+2. Click on the green button that says Code.
+3. From the drop down, select the download zip.
+4. It will download the phone-card-master.zip file.
+5. [Windows] Unzip the file by right clicking on it and selecting extract all
+5. [Mac] doubleclick on the file and follow the path to see extracted files.
+6. Open the folder with visual code and start hacking!
 
-After forking this repository, you can make some changes to the project, and submit [a Pull Request](https://github.com/octocat/Spoon-Knife/pulls) as practice.
+To use git clone:
+1. issue git clone https://github.com/practicalit/phone-card.git
+2. The above command will copy the folder phone-card to your directory.
+3. Open the folder with visual code and start hacking!
 
-For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
+>Your first task is to get the phone card app running locally and see what it is doing. All your tasks are listed under Task link in the page.
+
